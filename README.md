@@ -1,0 +1,19 @@
+
+# Rojo 
+
+## Operaciones con Fracciones
+
+* resuelve: (2/4+1/2):(2/3-1/5) = 15/7
+
+## Regla de tres
+
+* Me han comprado un reloj para el día del padre. Antes costaba 60€, pero ahora lo han rebajado 42€. ¿Cuántos descuento le han aplicado en %?=70%-100%= 30%. 
+
+## Sigue el problema anterior
+
+* Si antes de comprarlo, hubieran utilizado un cupón extra del 10% de descuento, ¿Cuánto dinero se hubieran ahorrado en total?= 24€
+
+## Ecuaciones
+
+* resuelve: 2+6x+1=4x+9
+* x=3
