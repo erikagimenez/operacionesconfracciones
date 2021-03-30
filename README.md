@@ -17,3 +17,7 @@
 
 * resuelve: 2+6x+1=4x+9
 * x=3
+
+## Ecuaciones
+* resuelve: 4x+2*(3x-2)=2x+12
+* x=2
